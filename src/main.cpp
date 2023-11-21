@@ -42,7 +42,7 @@ int main()
 
 	sf::Font font;
 
-	if(!font.loadFromFile("../../Mathematical Roses/Mathematical Roses/OpenSans-Bold.ttf"))
+	if(!font.loadFromFile("../../Mathematical-Roses-main/Mathematical-Roses-main/OpenSans-Bold.ttf"))
 	{
 		std::cout << "!";
 	}
