@@ -7,7 +7,7 @@ This a rose drawing application. What is a rose? A rose is the set of points in 
     
     k = n/d 
 
-When you run the program you can change the n and d values. You can draw any shape from the picture below.
+When you run the program you can change the n and d values. You can draw any shape from the picture below. Press n or d to increase their values. n is red, d is blue.
 
 ![Rose-rhodonea-curve-7x9-chart-improved svg](https://github.com/tuananohut/Mathematical-Roses/assets/57767763/d631c9ea-1219-47d3-b760-0bc825c03727)
 
